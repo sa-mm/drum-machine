@@ -1,0 +1,24 @@
+body {
+  background-color: lightsteelblue;
+}
+  
+#drum-machine {
+  width: 400px;
+  margin: 25% 25%;
+}
+
+#display {
+  text-align: center;
+  margin: 10px
+}
+
+#pads {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.drum-pad {
+  width: 100px;
+  height: 50px;
+  margin: 10px
+}
