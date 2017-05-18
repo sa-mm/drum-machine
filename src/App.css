@@ -1,15 +1,17 @@
 body {
   background-color: lightsteelblue;
 }
-  
+
 #drum-machine {
-  width: 400px;
-  margin: 25% 25%;
+  width: 50%;
+  margin: auto;
+  max-width: 400px;
 }
 
 #display {
   text-align: center;
-  margin: 10px
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 #pads {
